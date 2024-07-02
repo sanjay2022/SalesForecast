@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "UploadForeCastingData": {
+      "commandName": "Project",
+      "commandLineArgs" : "UploadForeCastingData -filePath=\"C:\\microservices\\rendering-engine\\src\\ART\\ART.Renderers.ComcastSupplyChain\\",
+      "environmentVariables": {
+        
+      }
+    },
+    "GetForeCasting": {
+      "commandName": "Project",
+      "commandLineArgs" : "GetForeCasting -year=2018",
+      "environmentVariables": {
+
+      }
+    }
+  }
+}
